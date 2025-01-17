@@ -11,6 +11,19 @@
                 "catering": true,
                 "music": true
             }
+        },
+ 
+        {
+            "id": 2,
+            "category": "coding",
+            "title": "code wars",
+            "description": "lets code",
+            "location": "Rock house",
+            "pets": 0,
+            "extras": {
+                "catering": true,
+                "music": true
+            }
         }
     ]
 }
